@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "pass1234",
+    "database": "dksoluciones",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "posgres",
+    "password": "pass1234",
+    "database": "dksoluciones",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "b1DF2412ddfGA55b3b3DAaegg24gg3cA",
+    "database": "railway",
+    "host": "monorail.proxy.rlwy.net",
+    "dialect": "postgres",
+    "port": 58525
+  }
+}
