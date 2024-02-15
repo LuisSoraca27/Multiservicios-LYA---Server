@@ -23,7 +23,7 @@ export function generateCategoryId(plataforma) {
         vixplus: 7,
         plex: 8,
         crunchyroll: 9,
-        lionsgateplus: 10,
+        profenet: 10,
         iptv: 11,
         youtube: 12,
         tidal: 13,
@@ -34,10 +34,15 @@ export function generateCategoryId(plataforma) {
         xboxpass: 18,
         appletv: 19,
         pornhub: 20,
-        brazzers: 21,
+        comboplus: 21,
         rakutenviki: 22,
-        acorntv: 23,
+        funimation: 23,
         mubi: 24,
+        universalplus: 25,
+        magistv: 26,
+        telelatino: 27,
+        directvgo: 28,
+        clarovideo: 29,
     }
 
     return plataformas[plataformaLowerCase]
